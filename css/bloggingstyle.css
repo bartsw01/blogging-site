@@ -9,6 +9,9 @@
 h2 {
   text-decoration: underline;
 }
+h3 {
+  text-decoration: underline;
+}
 .peers {
   color: blue;
   font-style: italic;
@@ -34,4 +37,11 @@ h2 {
   font-family: sans-serif;
   font-size: 20px;
   background-color: tan;
+}
+
+.information {
+  color: orange;
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: blue;
 }
